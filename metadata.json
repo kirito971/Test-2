@@ -1,0 +1,8 @@
+{
+  "name": "AfriBaba - E-commerce B2B/B2C",
+  "description": "Plateforme E-commerce B2B/B2C adaptée aux réalités africaines (Mobile Money, Escrow, Group Buying).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
